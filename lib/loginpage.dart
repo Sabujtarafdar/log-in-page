@@ -14,7 +14,7 @@ class LoginPage extends StatelessWidget {
           Image.asset('assets/img/h2.png',height:200),
         Text("Welcome",),
             TextField(),
-
+          Text("to our application")
 
     ],
       ),
