@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:loginui/loginpage.dart';
 
-
-
-
-
-
-
-
 void main() {
   runApp(const MyApp());
 }
@@ -22,7 +15,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter login UI',
       debugShowCheckedModeBanner: false,
       home: LoginPage(),
-
     );
   }
 }
